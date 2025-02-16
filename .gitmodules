@@ -1,6 +1,6 @@
 [submodule "llm.c"]
-	path = llm.c
-	url = https://github.com/karpathy/llm.c.git
+    path = llm.c
+    url = git@github.com:TimS-ml/llm.c.git
 [submodule "llama2.c"]
-	path = llama2.c
-	url = https://github.com/karpathy/llama2.c.git
+    path = llama2.c
+    url = https://github.com/karpathy/llama2.c.git
